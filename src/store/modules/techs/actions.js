@@ -1,5 +1,3 @@
-import { func } from "prop-types"
-
 export function addTech(tech) {
   return {
     type: 'ADD_TECH',
